@@ -9,6 +9,6 @@ a{color: #302ded;}
 #conteneur
 {
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	flex-wrap: wrap;
 }
