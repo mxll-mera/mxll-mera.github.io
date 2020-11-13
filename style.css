@@ -6,3 +6,9 @@ body{background-color: #debae3;}
 b{color: black;}
 i{color: white;}
 a{color: #302ded;}
+#conteneur
+{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
